@@ -10,4 +10,5 @@ Download code and open it in Visual Studio Code
 
 <br><br>
   
- Developed By Ivan Wang, Walter Ng, Jacky Zhou
+ Developed By Ivan Wang, Walter Ng, Jacky Zhou for UB Hackathon 2021
+
