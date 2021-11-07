@@ -8,7 +8,7 @@ Select Python and install with terminal( pip install opencv-contrib-python / cas
   
 Download code and open it in Visual Studio Code
 
-<br><br>
+<br>
   
  Developed By Ivan Wang, Walter Ng, Jacky Zhou for UB Hackathon 2021
 
