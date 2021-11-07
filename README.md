@@ -7,3 +7,7 @@
 Select Python and install with terminal( pip install opencv-contrib-python / cascade )
   
 Download code and open it in Visual Studio Code
+
+  
+  
+ Developed By Ivan Wang, Walter Ng, Jacky Zhou
